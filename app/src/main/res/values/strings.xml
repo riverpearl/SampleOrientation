@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleOrientation</string>
+    <string name="title_orientation_activity">Orientation Activity</string>
+</resources>
